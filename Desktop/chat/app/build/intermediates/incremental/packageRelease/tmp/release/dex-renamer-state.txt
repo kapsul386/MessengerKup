@@ -1,0 +1,4 @@
+#Mon Mar 16 12:15:08 MSK 2020
+base.0=/Users/dmitriikuptsov/Desktop/chat/app/build/intermediates/dex/release/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
